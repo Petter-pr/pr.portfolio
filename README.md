@@ -5,7 +5,7 @@
 ***
 
 ## Desenvolvimento
-- [ ] Ideias
+- [X] Ideias
 - [ ] Design
 - [ ] Prototipação
 - [ ] Recursos
